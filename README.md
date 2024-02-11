@@ -34,7 +34,9 @@
 - TMDB image CDN url
 - enhanced browse page
 - usePopular movies custom hook
-
+- GPT search page
+- GPT search bar
+- Multi_language feature in the app
 
 # Features
 - Login/Signup page
