@@ -36,7 +36,7 @@
 - usePopular movies custom hook
 - GPT search page
 - GPT search bar
-- Multi_language feature in the app
+- (Bonus) Multi_language feature in the app
 
 # Features
 - Login/Signup page
